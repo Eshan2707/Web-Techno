@@ -1,0 +1,16 @@
+.paragraph {
+    color: tomato;
+    font-size: 45px;
+    text-transform: capitalize;
+    text-decoration: underline;
+    text-decoration-color: violet;
+    text-decoration-style: wavy;
+}
+
+#headder {
+    color: brown;
+    font-size: 5rem;
+    font-variant: small-caps;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
